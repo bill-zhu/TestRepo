@@ -1,4 +1,6 @@
 TestRepo
 ========
 
-This is for test only
+This is for test only.
+
+Bill Zhu
